@@ -1,0 +1,6 @@
+CapadeNegocio\Servidor.class
+CapadeNegocio\ClientePOP.class
+CapadeNegocio\ConnectionDatabase.class
+com\mycompany\tecno\Tecno.class
+CapadeNegocio\Cliente.class
+CapadeNegocio\ClienteSMTP.class
